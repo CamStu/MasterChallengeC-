@@ -1,0 +1,7 @@
+C:\Users\Cameron\Source\Repos\SCEPTER-Senior-Design-Project-11\MasteryChallengeCsharp\MasteryChallengeCsharp\bin\Debug\MasteryChallengeCsharp.exe.config
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\bin\Debug\MasteryChallengeCsharp.exe.config
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\bin\Debug\MasteryChallengeCsharp.exe
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\bin\Debug\MasteryChallengeCsharp.pdb
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\obj\Debug\MasteryChallengeCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\obj\Debug\MasteryChallengeCsharp.exe
+C:\Users\Cameron\Documents\OtherRepos\MasterChallengeCsharp\MasteryChallengeCsharp\obj\Debug\MasteryChallengeCsharp.pdb
